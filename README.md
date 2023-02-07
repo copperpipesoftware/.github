@@ -1,2 +1,0 @@
-# CopperPipe Software
-Organization
